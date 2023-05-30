@@ -31,7 +31,7 @@ This tutorial provides a step-by-step guide on the prerequisites and installatio
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P90vtKL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To start, we will proceed with the installation and enabling of IIS (Internet Information Services) in Windows. Additionally, we will enable CGI and Common HTTP Features. Please follow the steps below:
@@ -51,7 +51,7 @@ By following these steps, you will successfully install and enable IIS in Window
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UofjXtm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Please follow these instructions to proceed with the next steps:
@@ -72,7 +72,7 @@ Now, we will proceed with the installation of PHP Manager for IIS and Rewrite Mo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OQGGXyR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -94,7 +94,7 @@ Now, we will proceed with the installation of PHP Manager for IIS and Rewrite Mo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wWAeIpM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To proceed with the remaining steps, please follow the instructions provided:
@@ -139,7 +139,7 @@ By following these steps, you will have successfully completed the installation 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CFXDCql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
    
@@ -166,7 +166,7 @@ Note that some extensions are not enabled
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q9vXAmf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To continue setting up osTicket and perform the necessary actions, please follow these steps:
@@ -217,7 +217,7 @@ By following these steps, you will have renamed the configuration file, assigned
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YZ7Eea7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
     In the osTicket setup page in your browser, provide the following MySQL database details:
@@ -232,7 +232,7 @@ By following these steps, you will have renamed the configuration file, assigned
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sTQEDd6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Congratulations! With these steps completed, osTicket should be successfully installed without any errors. This installation process involved downloading and installing various files, enabling required features, and creating a database to be used with the osTicket software.
